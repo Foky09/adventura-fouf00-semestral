@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nazev\ prenositelnost\ mnozstvi\ cena
+comment0.target=Vec(java.lang.String,\ boolean,\ int,\ int)
+comment0.text=\r\n\ \ Konstruktor\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNazev()
+comment1.text=\r\n\ Vrac\u00ED\ n\u00E1zev\ v\u011Bci\r\n
+comment2.params=
+comment2.target=int\ getCenaSMnozstvim()
+comment2.text=\r\n\ Vrac\u00ED\ celkovou\ cenu\ v\u011Bci\ p\u0159i\ zapo\u010Dten\u00ED\ mno\u017Estv\u00ED\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNazevMnozstviCena()
+comment3.text=\r\n\ Vrac\u00ED\ n\u00E1zev,\ mno\u017Estv\u00ED\ a\ celkovou\ cenu\ za\ v\u011Bc\r\n
+comment4.params=
+comment4.target=boolean\ isPrenositelnost()
+comment4.text=\r\n\ Vrac\u00ED\ zda\ je\ v\u011Bc\ p\u0159enositeln\u00E1\r\n
+comment5.params=
+comment5.target=int\ getCena()
+comment5.text=\r\n\ Vrac\u00ED\ cenu\ v\u011Bci\r\n
+comment6.params=mnozstvi
+comment6.target=void\ setMnozstvi(int)
+comment6.text=\r\n\ Nastav\u00ED\ mno\u017Estv\u00ED\ ceny\r\n
+comment7.params=
+comment7.target=int\ getMnozstvi()
+comment7.text=\r\n\ Vrac\u00ED\ mno\u017Estv\u00ED\ v\u011Bci\r\n
+numComments=8

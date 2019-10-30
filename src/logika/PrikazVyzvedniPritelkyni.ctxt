@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=plan
+comment0.target=PrikazVyzvedniPritelkyni(HerniPlan)
+comment0.text=\r\n\ \ Konstruktor\ t\u0159\u00EDdy\r\n\ \ \r\n\ \ @param\ plan\ hern\u00ED\ pl\u00E1n,\ odkud\ si\ bereme\ ta\u0161ku\ a\ zji\u0161\u0165ujeme\ aktu\u00E1ln\u00ED\ prostor\r\n
+comment1.params=parametry
+comment1.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment1.text=\r\n\ \ Prov\u00E1d\u00ED\ p\u0159\u00EDkaz\ "vyzvedni_p\u0159\u00EDtelkyni".\ Zji\u0161\u0165uje\ zda\ se\ nach\u00E1z\u00EDme\ v\ kav\u00E1rn\u011B.\r\n\ \ Pokud\ ano\ kontroluje\ zda\ sed\u00ED\ obsah\ ta\u0161ky\ s\ n\u00E1kupn\u00EDm\ seznamem.\r\n\ \ Pokud\ ano\ hra\ kon\u010D\u00ED\ v\u00FDhrou.\r\n\ \ Pokud\ ne\ hra\ kon\u010D\u00ED\ prohrou.\r\n\r\n@return\ zpr\u00E1va,\ kterou\ vyp\u00ED\u0161e\ hra\ hr\u00E1\u010Di\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNazev()
+comment2.text=\r\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\r\n\ \ \r\n\ \ @\ return\ nazev\ prikazu\r\n
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=plan
+comment0.target=PrikazOdeberVec(HerniPlan)
+comment0.text=\r\n\ \ Konstruktor\ t\u0159\u00EDdy\r\n\ \ \r\n\ \ @param\ plan\ hern\u00ED\ pl\u00E1n,\ odkud\ si\ bereme\ \r\n
+comment1.params=parametry
+comment1.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment1.text=\r\n\ \ Prov\u00E1d\u00ED\ p\u0159\u00EDkaz\ "odeber".\ Zkou\u0161\u00ED\ se\ odebrat\ zadan\u00E1\ v\u011Bc\ a\ jej\u00ED\ mno\u017Estv\u00ED.\ Pokud\ se\ v\u011Bc\r\n\ \ nach\u00E1z\u00ED\ v\ ta\u0161ce\ je\ zadan\u00E9\ mno\u017Estv\u00ED\ odebr\u00E1no.\ Pokud\ v\ ta\u0161ce\ v\u011Bc\ nen\u00ED,\ vyp\u00ED\u0161e\ se\ chybov\u00E1\ hl\u00E1\u0161ka\r\n\r\n@param\ parametry\ -\ jako\ \ parametr\ obsahuje\ n\u00E1zev\ v\u011Bci\ a\ jej\u00ED\ mno\u017Estv\u00ED,\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ kter\u00E9\ se\ m\u00E1\ sebrat.\r\n@return\ zpr\u00E1va,\ kterou\ vyp\u00ED\u0161e\ hra\ hr\u00E1\u010Di\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNazev()
+comment2.text=\r\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\r\n\ \ @\ return\ nazev\ prikazu\r\n
+numComments=3
